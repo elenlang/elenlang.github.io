@@ -110,6 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Dublin, Ireland"
+  github           : "elenlang"
   email            :
   links:
     - label: "Email"
