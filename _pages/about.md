@@ -2,7 +2,6 @@
 layout: home
 permalink: /about/
 title: "Personal Profile"
-author_profile: false
 header:
   image: "/images/Nora.jpg"
 ---
