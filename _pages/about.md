@@ -1,4 +1,5 @@
 ﻿---
+layout: archive
 permalink: /about/
 title: "Personal Profile"
 header:
