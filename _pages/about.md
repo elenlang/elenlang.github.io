@@ -2,7 +2,7 @@
 permalink: /about/
 title: "Personal Profile"
 header:
-  image: "/images/C:\Users\eleon\elenlang.github.io"
+  image: "/images/aboutme.jpg"
 ---
 1. Business Intelligence and Business Analysis Professional with significant achievements in implementation multi-year projects in the banking, e – commerce and media industries;
 
