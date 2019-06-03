@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Eleonora Sadykova"
-  avatar           : #"/images/avat.jpg"
+  avatar           : "/images/avat.jpg"
   bio              : "Business Intelligence and Data Science Portfolio"
   location         : "Dublin, Ireland"
   email            :
