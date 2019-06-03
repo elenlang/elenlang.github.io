@@ -1,8 +1,8 @@
----
+﻿---
 permalink: /about/
 title: "Personal Profile"
 header:
-  image: "/images/Nora.jpg"
+  image: "/images/C:\Users\eleon\elenlang.github.io"
 ---
 1. Business Intelligence and Business Analysis Professional with significant achievements in implementation multi-year projects in the banking, e – commerce and media industries;
 
