@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "Personal Profile"
-author_profile: false
+author_profile: true
 header:
   image: "/images/aboutme.jpg"
 ---
