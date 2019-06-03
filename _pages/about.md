@@ -1,9 +1,9 @@
 ---
 permalink: /about/
 title: "Personal Profile"
-author_profile: true
+author_profile: false
 header:
-  image: "/images/aboutme.jpg"
+  image: "/images/Nora.jpg"
 ---
 1. Business Intelligence and Business Analysis Professional with significant achievements in implementation multi-year projects in the banking, e – commerce and media industries;
 
