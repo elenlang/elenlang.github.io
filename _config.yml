@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Eleonora Sadykova"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  avatar           : "/images/avat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Business Intelligence and Data Science Portfolio"
   location         : "Dublin, Ireland"
   email            :
   links:
