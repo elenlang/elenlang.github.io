@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/bray.png"
+  image: "/images/dublin.jpg"
 ---
 1. Business Intelligence and Business Analysis Professional with significant achievements in implementation multi-year projects in the banking, e – commerce and media industries;
 
